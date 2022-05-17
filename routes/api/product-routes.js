@@ -37,7 +37,7 @@ router.get('/:id', (req, res) => {
     include: [
       {
         model: Category,
-        attributes: ['id', 'tag_name']
+        attributes: ['id', 'category_name']
       },
       {
         model: Tag,
@@ -147,7 +147,7 @@ router.delete('/:id', (req, res) => {
   .catch(err => {
     console.log(err);
     res.status(500).json(err);
-  })
+  });
 });
 
 module.exports = router;
