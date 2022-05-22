@@ -16,7 +16,7 @@
  
   ## Installation:
 
-  This application requires Node.js, Express.js, and Sequelize.  To install this aplication, you will download the files. Then connect to the database in the terminal by running mysql -u root -p and enter your MySQL password. Next you will source the schema.sql file and then run the seed file using `npm run seed`.  Finally, connect to the server by running `npm start`.
+  This application requires Node.js, Express.js, and Sequelize.  To install this aplication, you will download the files. Then connect to the database in the terminal by running `mysql -u root -p` and entering your MySQL password. Next you will source the schema.sql file and then run the seed file using `npm run seed`.  Finally, connect to the server by running `npm start`.
 
   ## Usage:
 
