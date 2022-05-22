@@ -21,8 +21,12 @@
   ## Usage:
 
   View the walkthrough videos to see how the application works.
+  
+![E-commerce Back End Application (1)](https://user-images.githubusercontent.com/99057802/169718472-1866e945-74ef-4fae-8397-2eac3a27673e.gif)
 
+You can also use this link to view the walkthrough video.
 
+[walkthrough Video Link](https://watch.screencastify.com/v/gDnSajzsXDjiJWfM1qJu)
   ## License:
   MIT License
 
